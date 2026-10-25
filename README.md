@@ -1,6 +1,6 @@
 # MGReport
 
-[![License](https://img.shields.io/badge/license-PolyForm%20Perimeter%201.0.1-5351FB)](LICENSE.md)
+[![License](https://img.shields.io/badge/license-MIT-5351FB)](LICENSE.md)
 
 > **Aviso importante:** Este componente está em desenvolvimento!
 
@@ -10,7 +10,7 @@ MGReport é uma biblioteca de relatórios para **Fyne**. Ela permite criar relat
 
 ## 🧩 Compatibilidade
 
-* Go 1.26.5+
+* Go 1.27.2+
 * Fyne 2.8.0
 
 ---
@@ -205,7 +205,7 @@ mgreport/
 
 ## 👤 Autor
 
-**Murilo Gomes Julio**
+**Murilo Gomes**
 
 🔗 [https://www.profmugomes.com.br](https://www.profmugomes.com.br)
 
@@ -215,26 +215,8 @@ mgreport/
 
 ## License
 
-Copyright (c) 2026 Murilo Gomes Julio. All Rights Reserved.
+Copyright (c) 2025-2026 Murilo Gomes <profmugomes.com.br>
 
-This project is licensed under the PolyForm Perimeter License 1.0.1.
+Licensed under the [MIT](https://github.com/profmugomes/mgreport/blob/main/LICENSE) license.
 
-### Summary
-
-This software is available for commercial and noncommercial use, subject to the terms of the PolyForm Perimeter License 1.0.1.
-
-You may:
-
-* ✔ Use the software for commercial and noncommercial purposes.
-* ✔ Inspect and study the source code.
-* ✔ Modify the software.
-* ✔ Create derivative works based on the software.
-* ✔ Redistribute the software and permitted modifications.
-
-You may not:
-
-* ✖ Provide a product that competes with the software.
-
-See the full license terms at LICENSE.md.
-
-This summary is provided for convenience only and does not replace or modify the full license terms.
+All contributions to the MGReport are subject to this license.
